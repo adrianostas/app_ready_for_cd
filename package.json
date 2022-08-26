@@ -25,7 +25,7 @@
     "@semantic-release/npm": "^9.0.1"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "devDependencies": {
     "semantic-release": "^19.0.5"
