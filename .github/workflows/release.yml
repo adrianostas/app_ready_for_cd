@@ -29,9 +29,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - name: setup Node.js
       - uses: actions/setup-node@v2
-      -  run: npm ci
-      -  run: npm run semantic-release
-         env:
-           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
+        with:
+          node-version: 'lts/*'
+      - name: setup semantic-release
+        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D
+      - name: release
+        run: npx semantic-release
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
