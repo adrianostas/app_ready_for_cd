@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.3.1](https://github.com/adrianostas/app_ready_for_cd/compare/v1.3.0...v1.3.1) (2022-08-26)
+
+
+### Bug Fixes
+
+* add pubspeck ([12489a5](https://github.com/adrianostas/app_ready_for_cd/commit/12489a5f124e64b0e409b30e229c8c00a4d7c1ca))
+
 # [1.3.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.2.0...v1.3.0) (2022-08-26)
 
 
