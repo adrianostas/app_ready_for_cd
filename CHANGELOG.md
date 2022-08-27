@@ -7,6 +7,15 @@
 
 * fix action ([1510c1c](https://github.com/adrianostas/app_ready_for_cd/commit/1510c1c1d3a12bb901c6936391d9e79b126379e2))
 * release rc file ([0df5f71](https://github.com/adrianostas/app_ready_for_cd/commit/0df5f711ce92f237f756e13da2bf171d6a634a05))
+* remove prepare ([2378717](https://github.com/adrianostas/app_ready_for_cd/commit/237871768634c4391cd49d21cc3023247bcedf39))
+
+## [1.4.1](https://github.com/adrianostas/app_ready_for_cd/compare/v1.4.0...v1.4.1) (2022-08-27)
+
+
+### Bug Fixes
+
+* fix action ([1510c1c](https://github.com/adrianostas/app_ready_for_cd/commit/1510c1c1d3a12bb901c6936391d9e79b126379e2))
+* release rc file ([0df5f71](https://github.com/adrianostas/app_ready_for_cd/commit/0df5f711ce92f237f756e13da2bf171d6a634a05))
 
 # [1.4.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.3.1...v1.4.0) (2022-08-27)
 
