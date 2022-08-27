@@ -16,9 +16,15 @@
       "@semantic-release/git",
       {
         "assets": [
-          "CHANGELOG.md",
-          "pubspec.yaml"
+          "pubspec.yaml",
+          "CHANGELOG.md"
         ]
+      }
+    ],
+    [
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "set-version ${nextRelease.version}"
       }
     ],
     [
