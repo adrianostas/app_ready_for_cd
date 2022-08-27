@@ -6,6 +6,7 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/exec",
+    "@semantic-release/github",
     [
       "@semantic-release/changelog",
       {
@@ -19,16 +20,6 @@
         "assets": [
           "pubspec.yaml",
           "CHANGELOG.md"
-        ]
-      }
-    ],
-    [
-      "@semantic-release/github",
-      {
-        "assets": [
-          {
-            "path": "release/**"
-          }
         ]
       }
     ]
