@@ -5,6 +5,7 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
+    "@semantic-release/exec",
     [
       "@semantic-release/changelog",
       {
@@ -19,12 +20,6 @@
           "pubspec.yaml",
           "CHANGELOG.md"
         ]
-      }
-    ],
-    [
-      "@semantic-release/exec",
-      {
-        "prepareCmd": "set-version ${nextRelease.version}"
       }
     ],
     [
