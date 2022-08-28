@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.9.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.8.0...v1.9.0) (2022-08-28)
+
+
+### Features
+
+* add java version ([915330f](https://github.com/adrianostas/app_ready_for_cd/commit/915330f7a7d8fd7cbd690efc4274cc00fec23116))
+
 # [1.8.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.7.0...v1.8.0) (2022-08-28)
 
 
