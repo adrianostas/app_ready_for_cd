@@ -14,9 +14,10 @@ jobs:
         with:
           node-version: 'lts/*'
       - name: setup semantic-release
-        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
+      - run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
       - name: release
       - run: npx semantic-release
+
 
   update_pubspec:
     name: Updating the code version and commiting
