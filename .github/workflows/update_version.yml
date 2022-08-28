@@ -17,6 +17,8 @@ jobs:
         run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
       - name: release
         run: npx semantic-release
+      - name: env variables
+        run: env
 
 
   update_pubspec:
