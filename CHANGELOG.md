@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.10.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.9.0...v1.10.0) (2022-08-28)
+
+
+### Features
+
+* fix flutter version ([d37d384](https://github.com/adrianostas/app_ready_for_cd/commit/d37d384efedc154ba0aa1072d58b0e7d3ca76b24))
+
 # [1.9.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.8.0...v1.9.0) (2022-08-28)
 
 
