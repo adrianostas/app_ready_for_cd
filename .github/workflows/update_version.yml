@@ -17,7 +17,6 @@ jobs:
       - name: setup semantic-release
         run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
       - name: release
-      - id: step2
         run: npx semantic-release
     outputs:
       output1: ${{steps.step2.outputs}}
