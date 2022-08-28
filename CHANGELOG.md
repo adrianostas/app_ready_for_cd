@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.11.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.10.0...v1.11.0) (2022-08-28)
+
+
+### Features
+
+* remove export path ([db136d4](https://github.com/adrianostas/app_ready_for_cd/commit/db136d4fe76eec163e4eb0cdc848680b5cf497b6))
+
 # [1.10.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.9.0...v1.10.0) (2022-08-28)
 
 
