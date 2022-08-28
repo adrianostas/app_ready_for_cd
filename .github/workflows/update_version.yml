@@ -17,6 +17,7 @@ jobs:
         run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
       - name: release
         run: npx semantic-release
+
   update_pubspec:
     name: Updating the code version and commiting
     runs-on: ubuntu-latest
@@ -40,7 +41,6 @@ jobs:
       # Get dependencies and generating appbundle
       # Here I'm using appbundle, feel free to change it to APK
       - run: |
-          export PATH="$PATH":"$HOME/.pub-cache/bin"
           pub global activate cider
           cider version ${{ env.MAJOR }}.${{ env.MINOR }}.${{ env.PATCH }}+${{ env.NUMBER_OF_COMMITS }}
           flutter pub get
