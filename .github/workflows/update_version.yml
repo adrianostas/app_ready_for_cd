@@ -9,7 +9,7 @@ jobs:
   create_tag_and_changelog:
     runs-on: ubuntu-latest
     outputs:
-      output1: ${{steps.release.outputs}}
+      output1: ${{steps.release.outputs.nextRelease}}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
