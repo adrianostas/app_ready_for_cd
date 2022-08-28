@@ -17,7 +17,11 @@ jobs:
         run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
       - name: release
       - run: npx semantic-release
-      - run: env
+  list_variables:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        run: env
 
   update_pubspec:
     name: Updating the code version and commiting
