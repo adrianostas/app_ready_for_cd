@@ -20,7 +20,6 @@ jobs:
 
 
   update_pubspec:
-    name: Updating the code version and commiting
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
