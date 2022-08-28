@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.7.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.6.0...v1.7.0) (2022-08-28)
+
+
+### Features
+
+* cider package ([a104389](https://github.com/adrianostas/app_ready_for_cd/commit/a1043899c86df109b211a812f2886b3db403c542))
+
 # [1.6.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.5.0...v1.6.0) (2022-08-28)
 
 
