@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: create_tag_and_changelog
     steps:
-      - run: echo ${{needs.create_tag_and_changelog.outputs.output1}}
+      - run: echo ${{create_tag_and_changelog.outputs.output1}}
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
