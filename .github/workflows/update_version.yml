@@ -61,6 +61,6 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
   JAVA_VERSION: "12.x"
   #change it to your project version
-  FLUTTER_VERSION: "3.x.x"
+  FLUTTER_VERSION: "3.x"
   #change it to your project channel
   FLUTTER_CHANNEL: "stable"
