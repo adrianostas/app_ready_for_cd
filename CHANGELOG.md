@@ -1,5 +1,19 @@
 # Semantic Versioning Changelog
 
+# [1.12.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.11.0...v1.12.0) (2022-08-28)
+
+
+### Features
+
+* add env ([047246a](https://github.com/adrianostas/app_ready_for_cd/commit/047246a9adf2e7a22ba50dfe9ed0947916042e45))
+* fix ([d34cdfa](https://github.com/adrianostas/app_ready_for_cd/commit/d34cdfa91922bf0912f73baef1ebe8254e8b7598))
+* fix ([18e3dbc](https://github.com/adrianostas/app_ready_for_cd/commit/18e3dbc3da8779c6e3dfa4d164ed2329796041ab))
+* fix action ([8077d5d](https://github.com/adrianostas/app_ready_for_cd/commit/8077d5d8e607b04551a46db97d71512c8a1478c9))
+* fix action ([bb86bae](https://github.com/adrianostas/app_ready_for_cd/commit/bb86bae7fe2ea0bbea45980bcd6a37fd6819087f))
+* fix env ([44d0994](https://github.com/adrianostas/app_ready_for_cd/commit/44d0994e232d73a0e1bb115df74348fba9f9a45d))
+* remove ([cb08d0a](https://github.com/adrianostas/app_ready_for_cd/commit/cb08d0a405b99b38e15932b948e0e9b1000b19db))
+* remove update ([b067d60](https://github.com/adrianostas/app_ready_for_cd/commit/b067d608bc8019791fe0d6e85fa20a729aa2cc45))
+
 # [1.11.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.10.0...v1.11.0) (2022-08-28)
 
 
