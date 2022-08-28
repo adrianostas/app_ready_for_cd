@@ -20,8 +20,7 @@ jobs:
   list_variables:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        run: env
+      - run: env
 
   update_pubspec:
     name: Updating the code version and commiting
