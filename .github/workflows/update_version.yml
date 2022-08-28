@@ -1,21 +1,23 @@
-name: Updating_Code_Version
-
-# This action will be triggered on every new tag
-# For this example I'm using a tag named v1.0.2
+name: Update Version
 on:
   push:
-    tags:
-      - "*"
+    branches: [ master ]
 
-env:
-  JAVA_VERSION: "12.x"
-  #change it to your project version
-  FLUTTER_VERSION: "3.x.x"
-  #change it to your project channel
-  FLUTTER_CHANNEL: "stable"
+  workflow_dispatch:
 
 jobs:
-  update_code_version:
+  create_tag_and_changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 'lts/*'
+      - name: setup semantic-release
+        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
+      - name: release
+        run: npx semantic-release
+  update_pubspec:
     name: Updating the code version and commiting
     runs-on: ubuntu-latest
     steps:
@@ -55,4 +57,5 @@ jobs:
           message: "Update version on pubspec.yaml & update change log"
           # Change it to your own branch
           push: origin master --force
-
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
