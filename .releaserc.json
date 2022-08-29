@@ -8,7 +8,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "./bump_pubspec_version.sh ${nextRelease.version}"
+        "prepareCmd": "./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
       }
     ],
     "@semantic-release/github",
