@@ -1,5 +1,18 @@
 # Semantic Versioning Changelog
 
+# [1.17.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.16.0...v1.17.0) (2022-08-29)
+
+
+### Features
+
+* add @ to semantic release npm ([60e9e3e](https://github.com/adrianostas/app_ready_for_cd/commit/60e9e3e45b21de2c499a8ef3cb019f3fbd5c5cc9))
+* add back semantic release ([e85a71d](https://github.com/adrianostas/app_ready_for_cd/commit/e85a71dbea0134ab57f0ee6be4ae7c6371c0ffaa))
+* add semantic release exec ([878a64d](https://github.com/adrianostas/app_ready_for_cd/commit/878a64d9834a22e5386a8e0629d1504e38b7f7fd))
+* fix ([ba4238a](https://github.com/adrianostas/app_ready_for_cd/commit/ba4238a06c62aa9d861435d88a04ce703f2baa0b))
+* fix semantic release npm ([dcb2c1c](https://github.com/adrianostas/app_ready_for_cd/commit/dcb2c1c5b8559638baf31c035ab3c7e3dbe01bf6))
+* remove semantic release ([15ebe06](https://github.com/adrianostas/app_ready_for_cd/commit/15ebe065a39eafeb3f77a1779c09a7ccf720011a))
+* remove semantic release ([9ae7705](https://github.com/adrianostas/app_ready_for_cd/commit/9ae770515fc67cb6963d1ffccdf131480c202c50))
+
 # [1.16.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.15.0...v1.16.0) (2022-08-28)
 
 
