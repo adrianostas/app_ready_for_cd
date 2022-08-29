@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.57.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.56.6...v1.57.0) (2022-08-29)
+
+
+### Features
+
+* trigger ci ([bff5062](https://github.com/adrianostas/app_ready_for_cd/commit/bff506211edf29e5a9942b55834021980c1c8c0a))
+
 ## [1.56.6](https://github.com/adrianostas/app_ready_for_cd/compare/v1.56.5...v1.56.6) (2022-08-29)
 
 
