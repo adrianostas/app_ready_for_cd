@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.31.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.30.0...v1.31.0) (2022-08-29)
+
+
+### Features
+
+* add pubspec to git ([7d951a2](https://github.com/adrianostas/app_ready_for_cd/commit/7d951a28952b7f2121ef3ccb3780fb5e3061f617))
+
 # [1.30.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.29.0...v1.30.0) (2022-08-29)
 
 
