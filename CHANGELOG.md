@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.26.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.25.0...v1.26.0) (2022-08-29)
+
+
+### Features
+
+* update sh script ([9af435e](https://github.com/adrianostas/app_ready_for_cd/commit/9af435e9457cdd75f0f3bc692ab8c54ab71d8c8e))
+
 # [1.25.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.24.0...v1.25.0) (2022-08-29)
 
 
