@@ -5,11 +5,12 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-   [
-     "@semantic-release/exec",{
-
-   }
-   ],
+    [
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "./bump_pubspec_version.sh ${nextRelease.version}"
+      }
+    ],
     "@semantic-release/github",
     [
       "@semantic-release/changelog",
