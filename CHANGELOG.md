@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [10.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v9.0.0...v10.0.0) (2022-08-29)
+
+
+### Bug Fixes
+
+* fix path ([b931885](https://github.com/adrianostas/app_ready_for_cd/commit/b931885c380f4ea6d7164d014995c23b340f5c2e))
+
+
+### BREAKING CHANGES
+
+* Test
+
 # [9.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v8.0.0...v9.0.0) (2022-08-29)
 
 
