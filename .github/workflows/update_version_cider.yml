@@ -52,10 +52,9 @@ jobs:
           author_name: GitHub Actions
           author_email: actions@github.com
           # Change it to your own branch
-          branch: main
+          branch: master
           message: "Update version on pubspec.yaml & update change log"
           # Change it to your own branch
-          push: origin main --force
+          push: origin master --force
 
-      # Make appbundle downloadable
-      # With that we can get the appbundle and submit on Google Play Store
+
