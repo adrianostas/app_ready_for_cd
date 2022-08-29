@@ -6,5 +6,7 @@ set -e
 
 perl -i -pe 's/^(version:)(\s*)((\d+\.)+\d+)(\+)(\d+)$/$1.$2.${version}.$5.($6+1)/e' pubspec.yaml
 git add pubspec.yaml
+git commit -m "commit_message"
+git push origin master
 
 chmod +x ./scripts/publish.sh
