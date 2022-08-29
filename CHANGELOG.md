@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.25.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.24.0...v1.25.0) (2022-08-29)
+
+
+### Features
+
+* fix permissions ([dcd4d56](https://github.com/adrianostas/app_ready_for_cd/commit/dcd4d56365519f77414f92547d764b4d706ba7fb))
+
 # [1.24.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.23.0...v1.24.0) (2022-08-29)
 
 
