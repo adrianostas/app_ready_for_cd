@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.34.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.33.0...v1.34.0) (2022-08-29)
+
+
+### Features
+
+* trigger cider ([6e188ed](https://github.com/adrianostas/app_ready_for_cd/commit/6e188edc8c629621bc7fe3930e9df8f3d383c81d))
+
 # [1.33.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.32.0...v1.33.0) (2022-08-29)
 
 
