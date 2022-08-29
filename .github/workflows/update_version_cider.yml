@@ -1,7 +1,7 @@
 name: Updating_Code_Version
 
 # This action will be triggered on every new tag
-# For this example I'm using a tag named v1.0.2
+
 on:
   push:
     tags:
