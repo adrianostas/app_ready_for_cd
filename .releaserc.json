@@ -5,11 +5,13 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-   [
-     "@semantic-release/exec",{
-
-   }
-   ],
+    [
+      "@semantic-release/exec",
+      {
+        "verifyConditionsCmd": "./scripts/verify.sh",
+        "publishCmd": "./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+      }
+    ],
     "@semantic-release/github",
     [
       "@semantic-release/changelog",
@@ -21,9 +23,7 @@
     [
       "@semantic-release/git",
       {
-        "assets": [
-          "CHANGELOG.md"
-        ]
+        "assets": ["CHANGELOG.md"]
       }
     ]
   ]
