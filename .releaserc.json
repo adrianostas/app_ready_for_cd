@@ -6,15 +6,10 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     [
-      "@semantic-release/npm",
-      {
-        "publish": false
-      }
-    ],
-    [
       "@semantic-release/exec",
       {
-        "publishCmd": "./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+        "publishCmd": "./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}",
+        "publish": false
       }
     ],
     "@semantic-release/github",
