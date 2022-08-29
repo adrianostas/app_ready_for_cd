@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.19.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.18.0...v1.19.0) (2022-08-29)
+
+
+### Features
+
+* remove pubspec from git ([bb2f615](https://github.com/adrianostas/app_ready_for_cd/commit/bb2f61514da377eb730ff14de58882e0819574ea))
+
 # [1.18.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.17.0...v1.18.0) (2022-08-29)
 
 
