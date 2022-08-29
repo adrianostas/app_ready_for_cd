@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.41.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.40.0...v1.41.0) (2022-08-29)
+
+
+### Features
+
+* add publish false ([9b134c7](https://github.com/adrianostas/app_ready_for_cd/commit/9b134c7a61ceaa43d86f0264d5a84291a86571e7))
+* add publish false to semantic exe ([0ed0e78](https://github.com/adrianostas/app_ready_for_cd/commit/0ed0e78bd58738ded4ba0c70b09011d971b03e20))
+
 # [1.39.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.38.0...v1.39.0) (2022-08-29)
 
 
