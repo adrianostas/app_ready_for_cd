@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.56.3](https://github.com/adrianostas/app_ready_for_cd/compare/v1.56.2...v1.56.3) (2022-08-29)
+
+
+### Bug Fixes
+
+* test script ([756ed12](https://github.com/adrianostas/app_ready_for_cd/commit/756ed123053c57ff99833678bc9b05cf75d21944))
+
 ## [1.56.2](https://github.com/adrianostas/app_ready_for_cd/compare/v1.56.1...v1.56.2) (2022-08-29)
 
 
