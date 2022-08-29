@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [4.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v3.0.0...v4.0.0) (2022-08-29)
+
+
+### Bug Fixes
+
+* add find by path ([f79739f](https://github.com/adrianostas/app_ready_for_cd/commit/f79739f0140a24e8639d3a86bfa0a1f2b9d610da))
+
+
+### BREAKING CHANGES
+
+* Test
+
 # [3.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v2.0.0...v3.0.0) (2022-08-29)
 
 
