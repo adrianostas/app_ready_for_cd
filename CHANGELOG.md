@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [3.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v2.0.0...v3.0.0) (2022-08-29)
+
+
+### Bug Fixes
+
+* add path ([78ce80d](https://github.com/adrianostas/app_ready_for_cd/commit/78ce80d3b060a11452bc9b941110e6bd8b372ff2))
+
+
+### BREAKING CHANGES
+
+* Test
+
 # [2.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.57.1...v2.0.0) (2022-08-29)
 
 
