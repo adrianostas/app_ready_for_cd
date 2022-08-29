@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.39.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.38.0...v1.39.0) (2022-08-29)
+
+
+### Features
+
+* remove permissions ([00a0e66](https://github.com/adrianostas/app_ready_for_cd/commit/00a0e669c6f50c9541976a205487977ecb7cc5b0))
+
 # [1.35.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.34.0...v1.35.0) (2022-08-29)
 
 
