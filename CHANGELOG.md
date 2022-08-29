@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.46.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.45.0...v1.46.0) (2022-08-29)
+
+
+### Features
+
+* replace sed ([0753438](https://github.com/adrianostas/app_ready_for_cd/commit/07534386c0a1fded95bb2329a9e70e6f715ed241))
+
 # [1.45.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.44.0...v1.45.0) (2022-08-29)
 
 
