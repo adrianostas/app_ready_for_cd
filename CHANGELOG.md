@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.47.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.46.0...v1.47.0) (2022-08-29)
+
+
+### Features
+
+* replace script ([ad19009](https://github.com/adrianostas/app_ready_for_cd/commit/ad19009e9f8b1ad90261f3aff66aa3d8a4bb713d))
+
 # [1.46.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.45.0...v1.46.0) (2022-08-29)
 
 
