@@ -7,6 +7,9 @@
     "@semantic-release/release-notes-generator",
     "@semantic-release/exec",
     "@semantic-release/github",
+    ["semantic-release",{
+      "publish": false
+    }],
     [
       "@semantic-release/changelog",
       {
