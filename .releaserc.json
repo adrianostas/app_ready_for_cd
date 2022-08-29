@@ -8,7 +8,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+        "publishCmd": "./scripts/publish.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
       }
     ],
     "@semantic-release/github",
