@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.21.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.20.0...v1.21.0) (2022-08-29)
+
+
+### Features
+
+* test ([30554bc](https://github.com/adrianostas/app_ready_for_cd/commit/30554bc603347f216048a28b157786b915197c49))
+
 # [1.20.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.19.0...v1.20.0) (2022-08-29)
 
 
