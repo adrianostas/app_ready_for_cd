@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.54.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.53.0...v1.54.0) (2022-08-29)
+
+
+### Features
+
+* fix script, fix pub version ([f3348bd](https://github.com/adrianostas/app_ready_for_cd/commit/f3348bd3530b23a690b444d8d5ebc76330479eb4))
+
 # [1.53.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.52.0...v1.53.0) (2022-08-29)
 
 
