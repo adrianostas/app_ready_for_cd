@@ -10,7 +10,7 @@ on:
 env:
   JAVA_VERSION: "12.x"
   #change it to your project version
-  FLUTTER_VERSION: "2.2.3"
+  FLUTTER_VERSION: "3.x"
   #change it to your project channel
   FLUTTER_CHANNEL: "stable"
 
