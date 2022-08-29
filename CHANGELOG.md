@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.35.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.34.0...v1.35.0) (2022-08-29)
+
+
+### Features
+
+* fix branch name ([7cf574b](https://github.com/adrianostas/app_ready_for_cd/commit/7cf574b9f4f4796a7b062770f0548bf44bdf9043))
+
 # [1.34.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.33.0...v1.34.0) (2022-08-29)
 
 
