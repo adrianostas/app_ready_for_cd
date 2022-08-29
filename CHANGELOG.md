@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.45.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.44.0...v1.45.0) (2022-08-29)
+
+
+### Features
+
+* remove cider package ([00609a0](https://github.com/adrianostas/app_ready_for_cd/commit/00609a047600b547d24f06ca3192816dd6bbcb49))
+
 # [1.44.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.43.0...v1.44.0) (2022-08-29)
 
 
