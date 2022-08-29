@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.33.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.32.0...v1.33.0) (2022-08-29)
+
+
+### Features
+
+* add cider package ([4b09373](https://github.com/adrianostas/app_ready_for_cd/commit/4b093735cb7d3990b7df865926a6d98d136f2c52))
+
 # [1.32.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.31.0...v1.32.0) (2022-08-29)
 
 
