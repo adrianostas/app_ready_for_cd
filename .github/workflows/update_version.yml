@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  create_tag_and_changelog:
+  update_version:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,6 +14,7 @@ jobs:
           node-version: 'lts/*'
       - id: setup_semantic_release
         run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D @semantic-release/exec
+        if: success()
       - id: release
         run: npx semantic-release
 env:
