@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.20.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.19.0...v1.20.0) (2022-08-29)
+
+
+### Features
+
+* add back semantic release ([98a72fd](https://github.com/adrianostas/app_ready_for_cd/commit/98a72fd73cf4135ca70a859205614d9a71ac6712))
+* remove semantic release ([31740c3](https://github.com/adrianostas/app_ready_for_cd/commit/31740c3fc0291b10a940d91b723db4b7f39c54f7))
+
 # [1.19.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.18.0...v1.19.0) (2022-08-29)
 
 
