@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.50.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.49.0...v1.50.0) (2022-08-29)
+
+
+### Features
+
+* fix commit message ([bf9f957](https://github.com/adrianostas/app_ready_for_cd/commit/bf9f957db65c4ee4d7315798e8fd9890fd22f1c9))
+
 # [1.49.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.48.0...v1.49.0) (2022-08-29)
 
 
