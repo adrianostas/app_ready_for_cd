@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [8.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v7.0.0...v8.0.0) (2022-08-29)
+
+
+### Bug Fixes
+
+* fix path ([e380f2b](https://github.com/adrianostas/app_ready_for_cd/commit/e380f2b5577f330f35fe56858c07078f73f85fd1))
+
+
+### BREAKING CHANGES
+
+* Test
+
 # [7.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v6.0.0...v7.0.0) (2022-08-29)
 
 
