@@ -1,0 +1,26 @@
+{
+  "name": "app_ready_for_cd",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianostas/app_ready_for_cd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianostas/app_ready_for_cd/issues"
+  },
+  "homepage": "https://github.com/adrianostas/app_ready_for_cd#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
+}
