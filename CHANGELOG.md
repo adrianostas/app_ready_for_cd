@@ -1,5 +1,29 @@
 # Semantic Versioning Changelog
 
+# [1.22.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.21.0...v1.22.0) (2022-08-29)
+
+
+### Features
+
+* add bump pubspec script ([0b92a00](https://github.com/adrianostas/app_ready_for_cd/commit/0b92a0084d79cab74366a2a647eb64f037c6e59c))
+* add chmod ([49db623](https://github.com/adrianostas/app_ready_for_cd/commit/49db62326d7b49a8bf476b50fbac37718d7a55c4))
+* add execute permission ([a00d9c3](https://github.com/adrianostas/app_ready_for_cd/commit/a00d9c3dd08042ca33fe2b10c6a06b2f9d345c02))
+* add package json ([9dd8474](https://github.com/adrianostas/app_ready_for_cd/commit/9dd8474c3b8f9a86d218a448fd8411716f3b81c0))
+* add path ([2888e4d](https://github.com/adrianostas/app_ready_for_cd/commit/2888e4d3a11bb4fccf1fc50e4b602fa87b9dd494))
+* add permission ([a2d6185](https://github.com/adrianostas/app_ready_for_cd/commit/a2d6185eb40b1baed6fff1011036f191b28ee7f6))
+* add permission ([cd473b4](https://github.com/adrianostas/app_ready_for_cd/commit/cd473b4e3d77cbb3abc297e3f983675923382e25))
+* add publish command ([8d5576e](https://github.com/adrianostas/app_ready_for_cd/commit/8d5576e462c73702bd0b1b148fb03074efd75f73))
+* add sudo before chmod ([258a8b7](https://github.com/adrianostas/app_ready_for_cd/commit/258a8b7df138b36f05024a88dd00bd5870a4e437))
+* fix bump script ([2ebce50](https://github.com/adrianostas/app_ready_for_cd/commit/2ebce503eab3c7398a4fcd094651467cb4e53472))
+* fix bump script ([28b8968](https://github.com/adrianostas/app_ready_for_cd/commit/28b8968a744303525622ff6b259cc9702074ff88))
+* fix path ([54de081](https://github.com/adrianostas/app_ready_for_cd/commit/54de081d3d17519925db14b25e5c4c1c1e7024e8))
+* fix path ([07d0e6c](https://github.com/adrianostas/app_ready_for_cd/commit/07d0e6cd956d4a93d1cd6306c9d22e8754f981db))
+* fix path ([9a91e2a](https://github.com/adrianostas/app_ready_for_cd/commit/9a91e2a09078e9e5cfa1ccaf5dd0bb668dc8feeb))
+* fix permission ([8195e34](https://github.com/adrianostas/app_ready_for_cd/commit/8195e347509b0a154f98c03c1e3d3a5c21bb196c))
+* make script executable ([f2c7491](https://github.com/adrianostas/app_ready_for_cd/commit/f2c7491549345d188de62b7b52657ff3a9f843f8))
+* test ([e5e81c4](https://github.com/adrianostas/app_ready_for_cd/commit/e5e81c455d96cae0de2bd5395e84e10939e05b42))
+* test script ([0573ef6](https://github.com/adrianostas/app_ready_for_cd/commit/0573ef6cc116df744c47a2f4c7826c1736758e81))
+
 # [1.21.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.20.0...v1.21.0) (2022-08-29)
 
 
