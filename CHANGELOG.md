@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.30.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.29.0...v1.30.0) (2022-08-29)
+
+
+### Features
+
+* add new publish script ([67204cf](https://github.com/adrianostas/app_ready_for_cd/commit/67204cf4a47743f2ebb14e027bd88ccdfe22e643))
+
 # [1.29.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.28.0...v1.29.0) (2022-08-29)
 
 
