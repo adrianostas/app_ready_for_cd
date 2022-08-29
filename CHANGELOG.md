@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.29.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.28.0...v1.29.0) (2022-08-29)
+
+
+### Features
+
+* improve git permissions ([3988151](https://github.com/adrianostas/app_ready_for_cd/commit/3988151f7eebf423366c2d709ea004a2072bf388))
+
 # [1.28.0](https://github.com/adrianostas/app_ready_for_cd/compare/v1.27.0...v1.28.0) (2022-08-29)
 
 
