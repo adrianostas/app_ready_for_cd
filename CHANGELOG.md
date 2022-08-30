@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [10.0.5](https://github.com/adrianostas/app_ready_for_cd/compare/v10.0.4...v10.0.5) (2022-08-30)
+
+
+### Bug Fixes
+
+* test build number ([d9fd2c4](https://github.com/adrianostas/app_ready_for_cd/commit/d9fd2c4cf92053163ad799dc63f649f8dc31ebc7))
+
 ## [10.0.4](https://github.com/adrianostas/app_ready_for_cd/compare/v10.0.3...v10.0.4) (2022-08-30)
 
 
