@@ -3,13 +3,14 @@
 set -e
 echo "$1"
 
-oldnum=$(cut -d '+' -f2 "pubspec.yaml")
+oldBuildNumber=$(cut -d '+' -f2 "pubspec.yaml")
 
-newnum=$((oldnum + 1))
+newBuildNumber=$((oldBuildNumber + 1))
 
-echo HERE $newnum
+echo oldBuildNumber
+echo HERE newBuildNumber
 
-sed -i "s/.*version: .*[+:]/version: $1+$newnum/g" "pubspec.yaml"
+sed -i "s/.*version: .*[+:]/version: $1+$newBuildNumber/g" "pubspec.yaml"
 git add pubspec.yaml
 git commit -m "update_pubspec"
 git push origin master
