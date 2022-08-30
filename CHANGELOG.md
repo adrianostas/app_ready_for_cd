@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [13.2.0](https://github.com/adrianostas/app_ready_for_cd/compare/v13.1.0...v13.2.0) (2022-08-30)
+
+
+### Features
+
+* add back git push ([3826e9f](https://github.com/adrianostas/app_ready_for_cd/commit/3826e9f6e3b965101d311050a0fa889afee46713))
+
 # [13.1.0](https://github.com/adrianostas/app_ready_for_cd/compare/v13.0.0...v13.1.0) (2022-08-30)
 
 
