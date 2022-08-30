@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [13.2.4](https://github.com/adrianostas/app_ready_for_cd/compare/v13.2.3...v13.2.4) (2022-08-30)
+
+
+### Bug Fixes
+
+* trigger ci ([e6cae7b](https://github.com/adrianostas/app_ready_for_cd/commit/e6cae7bf74aea670b7cb821abef6bc4617e7583b))
+
 ## [13.2.3](https://github.com/adrianostas/app_ready_for_cd/compare/v13.2.2...v13.2.3) (2022-08-30)
 
 
