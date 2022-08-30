@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [10.8.0](https://github.com/adrianostas/app_ready_for_cd/compare/v10.7.0...v10.8.0) (2022-08-30)
+
+
+### Features
+
+* add print ([6f48937](https://github.com/adrianostas/app_ready_for_cd/commit/6f489371cc012da5195b9e0af134e4859eb37a13))
+
 # [10.7.0](https://github.com/adrianostas/app_ready_for_cd/compare/v10.6.0...v10.7.0) (2022-08-30)
 
 
