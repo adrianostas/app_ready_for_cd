@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [13.2.3](https://github.com/adrianostas/app_ready_for_cd/compare/v13.2.2...v13.2.3) (2022-08-30)
+
+
+### Bug Fixes
+
+* test remove tag ([bd58be3](https://github.com/adrianostas/app_ready_for_cd/commit/bd58be3065073f4e3b518703a7d6443d99ac5763))
+
 ## [13.2.2](https://github.com/adrianostas/app_ready_for_cd/compare/v13.2.1...v13.2.2) (2022-08-30)
 
 
