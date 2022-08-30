@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [10.15.2](https://github.com/adrianostas/app_ready_for_cd/compare/v10.15.1...v10.15.2) (2022-08-30)
+
+
+### Bug Fixes
+
+* test ([ddecabc](https://github.com/adrianostas/app_ready_for_cd/commit/ddecabcf24f1a0a2b6f1eee4c2163bbb2c239111))
+
 ## [10.15.1](https://github.com/adrianostas/app_ready_for_cd/compare/v10.15.0...v10.15.1) (2022-08-30)
 
 
