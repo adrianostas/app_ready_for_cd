@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [13.2.2](https://github.com/adrianostas/app_ready_for_cd/compare/v13.2.1...v13.2.2) (2022-08-30)
+
+
+### Bug Fixes
+
+* add names for github actions ([07718ee](https://github.com/adrianostas/app_ready_for_cd/commit/07718ee5d9d44616f9519b37083706ad9a4c9d04))
+
 ## [13.2.1](https://github.com/adrianostas/app_ready_for_cd/compare/v13.2.0...v13.2.1) (2022-08-30)
 
 
