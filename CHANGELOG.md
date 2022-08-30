@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [10.16.0](https://github.com/adrianostas/app_ready_for_cd/compare/v10.15.14...v10.16.0) (2022-08-30)
+
+
+### Features
+
+* test sh script ([b7d9b23](https://github.com/adrianostas/app_ready_for_cd/commit/b7d9b23be8a5f7c7199a1a59c096f1baa82a248a))
+
 ## [10.15.14](https://github.com/adrianostas/app_ready_for_cd/compare/v10.15.13...v10.15.14) (2022-08-30)
 
 
