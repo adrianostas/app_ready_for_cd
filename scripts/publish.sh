@@ -3,7 +3,7 @@
 set -e
 echo "$1"
 
-oldBuildNumber=`cut -d ',' -f2 file1.txt pubspec.yaml`
+oldBuildNumber=`cut -d ',' -f2 pubspec.yaml`
 
 newBuildNumber=`expr $oldBuildNumber + 1`
 
