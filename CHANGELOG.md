@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [10.0.12](https://github.com/adrianostas/app_ready_for_cd/compare/v10.0.11...v10.0.12) (2022-08-30)
+
+
+### Bug Fixes
+
+* modify sh script ([be70c7d](https://github.com/adrianostas/app_ready_for_cd/commit/be70c7d986ea6629295f2999ee65349f61cac4f8))
+
 ## [10.0.11](https://github.com/adrianostas/app_ready_for_cd/compare/v10.0.10...v10.0.11) (2022-08-30)
 
 
