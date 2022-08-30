@@ -2,7 +2,8 @@
 
 set -e
 echo "$1"
-sed -i "s/.*version: .*/version: $1+((i++))/g" "pubspec.yaml"
+buildNumber=0
+sed -i "s/.*version: .*/version: $1+$($buildNumber+1)/g" "pubspec.yaml"
 git add pubspec.yaml
 git commit -m "update_pubspec"
 git push origin master
