@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [10.11.0](https://github.com/adrianostas/app_ready_for_cd/compare/v10.10.0...v10.11.0) (2022-08-30)
+
+
+### Features
+
+* fix file name ([1b0e82e](https://github.com/adrianostas/app_ready_for_cd/commit/1b0e82e74e9492666edb742e5f9512e66075b8da))
+
 # [10.10.0](https://github.com/adrianostas/app_ready_for_cd/compare/v10.9.0...v10.10.0) (2022-08-30)
 
 
