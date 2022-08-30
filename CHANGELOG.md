@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [13.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v12.0.0...v13.0.0) (2022-08-30)
+
+
+### Features
+
+* remove unused script ([213b3f8](https://github.com/adrianostas/app_ready_for_cd/commit/213b3f82290ea2693903405dd678dd9ced66635e))
+
+
+### BREAKING CHANGES
+
+* test
+
 # [12.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v11.0.0...v12.0.0) (2022-08-30)
 
 
