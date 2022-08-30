@@ -3,8 +3,12 @@
 set -e
 echo "$1"
 
-awk -F'+' '("%s\t%d\n",$1,$2+1)' "pubspec.yaml"
-sed -i "s/.*version: .*[+:]/version: $1+/g" "pubspec.yaml"
+oldnum=$(cut -d '+' -f2 "pubspec.yaml")
+# shellcheck disable=SC2003
+newnum=$(expr $oldnum + 1)
+
+
+sed -i "s/.*version: .*[+:]/version: $1+$newnum/g" "pubspec.yaml"
 git add pubspec.yaml
 git commit -m "update_pubspec"
 git push origin master
