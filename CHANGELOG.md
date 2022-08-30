@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [10.0.8](https://github.com/adrianostas/app_ready_for_cd/compare/v10.0.7...v10.0.8) (2022-08-30)
+
+
+### Bug Fixes
+
+* replace until + ([4e17092](https://github.com/adrianostas/app_ready_for_cd/commit/4e17092e4a2ceac3ec1407118eda48d67fde363b))
+
 ## [10.0.7](https://github.com/adrianostas/app_ready_for_cd/compare/v10.0.6...v10.0.7) (2022-08-30)
 
 
