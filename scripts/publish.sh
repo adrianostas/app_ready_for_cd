@@ -7,7 +7,7 @@ oldnum=$(cut -d '+' -f2 "pubspec.yaml")
 
 newnum=$((oldnum + 1))
 
-echo $newnum
+echo HERE $newnum
 
 sed -i "s/.*version: .*[+:]/version: $1+$newnum/g" "pubspec.yaml"
 git add pubspec.yaml
