@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [13.1.0](https://github.com/adrianostas/app_ready_for_cd/compare/v13.0.0...v13.1.0) (2022-08-30)
+
+
+### Features
+
+* test without git push ([d798f73](https://github.com/adrianostas/app_ready_for_cd/commit/d798f73e9e8b95c678cdb51caa7601f44e22224e))
+
 # [13.0.0](https://github.com/adrianostas/app_ready_for_cd/compare/v12.0.0...v13.0.0) (2022-08-30)
 
 
