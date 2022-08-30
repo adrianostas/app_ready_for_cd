@@ -2,9 +2,9 @@
 set -e
 if [ -z "$1" ]
 then
-  perl -i -pe 's/^(version:\s+\d+\.\d+\.\d+\+)(\d+)$/$1.($2+1)/e' pubspec.yaml
+  perl -i -pe 's/(version:\s+\d+\.\d+\.\d+\+)(\d+)$/$1.($2+1)/e' pubspec.yaml
 else
-  sed -i '' "s/^version.*/version: $1/g" pubspec.yaml
+  sed -i '' "s/version.*/version: $1/g" pubspec.yaml
 fi
 git add pubspec.yaml
 git commit -m "update_pubspec"
