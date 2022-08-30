@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [13.2.1](https://github.com/adrianostas/app_ready_for_cd/compare/v13.2.0...v13.2.1) (2022-08-30)
+
+
+### Bug Fixes
+
+* add comment ([1e77670](https://github.com/adrianostas/app_ready_for_cd/commit/1e77670bab9b1dc57344a2991e21a42907ea935f))
+
 # [13.2.0](https://github.com/adrianostas/app_ready_for_cd/compare/v13.1.0...v13.2.0) (2022-08-30)
 
 
